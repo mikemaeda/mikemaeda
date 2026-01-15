@@ -1,6 +1,7 @@
-## Hi there 👋
+##Mike Maeda (he/him)
+CS & data analytics @alfreduniversity
+Curretly working on View from Above
 
-<!--
 **mikemaeda/mikemaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
