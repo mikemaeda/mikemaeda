@@ -6,3 +6,9 @@ Hi! I'm Mike, a passionate computer science and data analytics student exploring
 Outside of coding, I enjoy mentoring, running, and finding ways to bring communities together through innovative solutions.  
 
 Feel free to explore my repositories to see my projects, and don’t hesitate to reach out if you want to collaborate or just chat about tech! 🚀
+---
+
+-->
+<p align="center">
+ <img width="1000" src="https://github.com/benny-png/benny-png/blob/main/assets/github-snake.svg" alt="snake"/>
+</p>
