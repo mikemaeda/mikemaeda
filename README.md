@@ -1,8 +1,24 @@
-## Mike Maeda (he/him)  
-CS & Data Analytics @ Alfred University  
+## Mike Maeda
 
-Hi! I'm Mike, a passionate computer science and data analytics student exploring the intersection of technology and problem-solving. I love building projects that combine coding, data, and real-world impact whether it's analyzing datasets, creating tools to make life easier, or experimenting with new tech.  
+**Computer Science & Data Analytics student at Alfred University**
 
-<p align="center">
- <img width="1000" src="https://github.com/benny-png/benny-png/blob/main/assets/github-snake.svg" alt="snake"/>
-</p>
+Hi, I'm Mike. I'm building my skills through hands-on projects in software development, data, and real-world problem solving. I like learning by creating practical tools, improving them step by step, and understanding how the pieces work together from the user interface to the database.
+
+### Current Focus
+
+- Building full projects with clean structure and readable code
+- Learning Python, Java, databases, and web development
+- Creating tools for everyday problems, school workflows, and student life
+- Growing as a developer through consistent practice and project work
+
+### Projects I'm Working On
+
+- **Expense Tracker**: a personal finance app for tracking spending and organizing expenses
+- **School Management System**: a Java application for managing users, teaching tasks, feedback, and reports
+- **Delivery Service Website**: a student-focused delivery request platform concept
+
+### Tech I'm Practicing
+
+`Python` `Java` `SQLite` `Flask` `HTML` `CSS` `GitHub` `VS Code`
+
+I'm still early in the journey, but I'm serious about improving, building useful things, and becoming the kind of developer who can learn fast and solve real problems.
