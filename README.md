@@ -1,24 +1,15 @@
-## Mike Maeda
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:14b8a6&height=150&section=header&text=Mike%20Maeda&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Computer%20Science%20%7C%20Data%20Analytics&descSize=16&descAlignY=62" alt="Mike Maeda profile banner" />
+</p>
 
-**Computer Science & Data Analytics student at Alfred University**
+<p align="center">
+  <strong>CS & Data Analytics @ Alfred University</strong><br />
+  Building clean, practical software with a focus on data, systems, and user-centered tools.
+</p>
 
-Hi, I'm Mike. I'm building my skills through hands-on projects in software development, data, and real-world problem solving. I like learning by creating practical tools, improving them step by step, and understanding how the pieces work together from the user interface to the database.
-
-### Current Focus
-
-- Building full projects with clean structure and readable code
-- Learning Python, Java, databases, and web development
-- Creating tools for everyday problems, school workflows, and student life
-- Growing as a developer through consistent practice and project work
-
-### Projects I'm Working On
-
-- **Expense Tracker**: a personal finance app for tracking spending and organizing expenses
-- **School Management System**: a Java application for managing users, teaching tasks, feedback, and reports
-- **Delivery Service Website**: a student-focused delivery request platform concept
-
-### Tech I'm Practicing
-
-`Python` `Java` `SQLite` `Flask` `HTML` `CSS` `GitHub` `VS Code`
-
-I'm still early in the journey, but I'm serious about improving, building useful things, and becoming the kind of developer who can learn fast and solve real problems.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=60a5fa" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f97316" alt="Java" />
+  <img src="https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=38bdf8" alt="SQLite" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+</p>
