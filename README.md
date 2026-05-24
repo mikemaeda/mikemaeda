@@ -5,20 +5,19 @@
 </p>
 
 <p align="center">
-  Building clean, practical software across data, systems, and user-focused tools.
+  Building practical software with a focus on clarity, data, and useful systems.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=85&section=header&reversal=true" alt="blue wave divider" />
+  <code>software</code> &nbsp; <code>data</code> &nbsp; <code>systems</code> &nbsp; <code>design</code>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software-0f172a?style=for-the-badge" alt="Software" />
-  <img src="https://img.shields.io/badge/Data-2563eb?style=for-the-badge" alt="Data" />
-  <img src="https://img.shields.io/badge/Systems-0891b2?style=for-the-badge" alt="Systems" />
-  <img src="https://img.shields.io/badge/Design-14b8a6?style=for-the-badge" alt="Design" />
-</p>
+<hr />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,sqlite,flask,html,css,github,vscode&theme=light" alt="Python, Java, SQLite, Flask, HTML, CSS, GitHub, and VS Code" />
+</p>
+
+<p align="center">
+  <sub>Python · Java · SQLite · Flask · HTML/CSS · GitHub</sub>
 </p>
